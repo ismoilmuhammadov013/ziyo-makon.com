@@ -1,0 +1,6 @@
+{
+  "name": "ZiyoMakon — O'quvchilar Ta'lim Portali",
+  "description": "O'quvchilar va talabalar uchun zamonaviy intellektual platforma: dars jadvali, interaktiv formulalar, fan testlari, Mendeleyev jadvali va ilmiy simulyatorlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
